@@ -1,0 +1,10 @@
+Variable Name,Role,Type,Description,Units,Missing Values
+Sex,Feature,Categorical,"M, F, and I (infant)",,no
+Length,Feature,Continuous,Longest shell measurement,mm,no
+Diameter,Feature,Continuous,perpendicular to length,mm,no
+Height,Feature,Continuous,with meat in shell,mm,no
+Whole_weight,Feature,Continuous,whole abalone,grams,no
+Shucked_weight,Feature,Continuous,weight of meat,grams,no
+Viscera_weight,Feature,Continuous,gut weight (after bleeding),grams,no
+Shell_weight,Feature,Continuous,after being dried,grams,no
+Rings,Target,Integer,+1.5 gives the age in years,,no
